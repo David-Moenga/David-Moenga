@@ -1,5 +1,5 @@
 <h1 align="center">Dave Here</h1>
-<h1 align="center">Software Engineer</h1>
+<h1 align="center">Software Engineer | Data Analyst</h1>
 <p align="center">
 I believe great engineering isn't about avoiding complexity, it's about understanding it deeply enough to turn it into effortless simplicity. 
 </p>
