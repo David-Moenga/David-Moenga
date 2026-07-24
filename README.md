@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Dave 👋
+## Tech Stack
 
-<!--
-**David-Moenga/David-Moenga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Frontend:** React.js · Next.js · TypeScript · Tailwind CSS
+**Backend:** Django · Node.js
+**Data:** Python · pandas
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=David-Moenga&hide_border=true" alt="Contribution graph" width="100%" />
+</p>
 
-Here are some ideas to get you started:
+## Connect
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌍 Nakuru, Kenya
+- 💼 [Vendas](#)
+
+---
+*This README is a work in progress — always shipping something new.*
